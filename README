@@ -1,0 +1,9 @@
+# rundata
+
+Converts test run logs in csv format so they can be accessed via spreadsheet.
+
+## Usage
+
+See the marginalia output at ./docs/uberdoc.html
+
+

@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Mar  8 14:19:22 2012
+;; Desktop file format version 206
+;; Emacs version 24.0.91.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((114 file . "/home/sdyck/.emacs.d/starter-kit-registers.el") (98 file . "/home/sdyck/.emacs.d/starter-kit-bindings.el") (105 file . "/home/sdyck/.emacs.d/init.el")))
+(setq file-name-history '("/home/sdyck/dev/bc/issues/performance/rundata/.gitignore" "/home/sdyck/dev/bc/issues/performance/rundata/README" "/home/sdyck/dev/bc/issues/performance/rundata/data/la_message_labget_detailed_with_LAB_stats_DB_LAPS012012-03-06-23-00-00_to_2012-03-07-23-00-00_utc_RUN_20120307174201.txt.csv" "/home/sdyck/dev/rpi/rpiweb-internal/src/rpiweb_internal/core.clj" "/home/sdyck/dev/rpi/rpiweb-internal/project.clj" "/home/sdyck/dev/bc/issues/performance/rundata/src/rundata/core.clj" "/home/sdyck/dev/bc/issues/performance/rundata/data/la_message_labget_by_bat_mnth_org_status_stats_DB_LAPS01_2012-03-06-23-00-00_to_2012-03-07-23-00-00_utc_RUN_20120307174201.txt" "~/.ido.last" "~/dev/bc/trunk/pdf_convertor/src/main/resources/simplemerge.xslt" "~/dev/bc/bc-documents/sgd/MasonMachines.html" "~/dev/bc/bc-documents/sgd/pdf_convertor/formatnotes.html" "~/dev/bc/bc-documents/sgd/pdf_convertor/ResultsAnalysis.tex" "~/dev/bc/bc-documents/sgd/pdf_convertor/ResultsAnalysis.html" "~/dev/bc/issues/13066/outputfile.xml" "~/dev/bc/trunk/pdf_convertor/README.html" "~/dev/bc/bc-documents/sgd/pdf_convertor/InstallCygwin.org" "~/dev/bc/trunk/pdf_convertor/src/main/resources/doc1.xml" "~/dev/bc/trunk/pdf_convertor/src/main/resources/merged.xml" "~/dev/bc/bc-documents/sgd/pdf_convertor/index.html" "~/homeland/blog/drafts/CommonJavaProblems.html" "~/dev/bc/bc-documents/sgd/pdf_convertor/DesignNotes.org" "~/dev/bc/bc-documents/sgd/pdf_convertor/ResultsAnalysis.org" "~/dev/bc/trunk/pdf_convertor/src/main/resources/mergeutilities.xslt" "~/dev/bc/bc-documents/sgd/pdf_convertor/formatnotes.org" "~/dev/bc/bc-documents/sgd/MasonMachines.org" "~/dev/bc/bcQA/RegressionTestFilesAndResults/Expected-Baseline/PDF/release.properties"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/sdyck/dev/bc/issues/performance/rundata/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  nil
+  81
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sdyck/dev/bc/issues/performance/rundata/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-fill-mode paredit-mode hi-lock-mode slime-mode)
+  112
+  '(160 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (column-number-mode . t)))
+
+(desktop-create-buffer 206
+  "/home/sdyck/dev/bc/issues/performance/rundata/src/rundata/core.clj"
+  "core.clj"
+  'clojure-mode
+  '(auto-fill-mode paredit-mode hi-lock-mode slime-mode)
+  3188
+  '(3048 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (column-number-mode . t)))
+
+(desktop-create-buffer 206
+  "/home/sdyck/dev/bc/issues/performance/rundata/README"
+  "README"
+  'fundamental-mode
+  nil
+  151
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/sdyck/dev/bc/issues/performance/rundata/data/la_message_labget_by_bat_mnth_org_status_stats_DB_LAPS01_2012-03-06-23-00-00_to_2012-03-07-23-00-00_utc_RUN_20120307174201.txt"
+  "la_message_labget_by_bat_mnth_org_status_stats_DB_LAPS01_2012-03-06-23-00-00_to_2012-03-07-23-00-00_utc_RUN_20120307174201.txt"
+  'text-mode
+  '(auto-fill-mode flyspell-mode)
+  5080
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
